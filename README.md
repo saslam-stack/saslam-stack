@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saslam-stack
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on AWS Cloud computing, HTML, CSS and JavaScript...
 - 📫 How to reach me saslam79@hotmail.co.uk
 - 😄 Pronouns:
